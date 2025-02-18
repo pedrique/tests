@@ -1,3 +1,3 @@
 # tests
 
-oi boi
+tchau boi
